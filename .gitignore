@@ -1,0 +1,11 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated render output
+render_output/
+*.zip
+
+# Virtual environments
+.venv/
+venv/
+env/
